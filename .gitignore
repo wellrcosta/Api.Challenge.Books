@@ -1,1 +1,9 @@
 /appsettings.Development.json
+/bin
+/obj
+.idea
+.DS_Store
+/Debug
+/build
+/Release
+/Data/postgres
